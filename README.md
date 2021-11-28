@@ -4,7 +4,7 @@ A repository with the necesary files to setup a Discord Rich Precense in your Re
 
 # How to setup
 
-Add the "python-packages" folder in your base game directory, then add the next lines in your screen main_menu inside "screens.rpy". Check the [screens.rpy](screens.rpy).
+Add the "python-packages" folder in your base game directory, then add the next lines in your "screens.rpy". Check the line 355 of [screens.rpy](screens.rpy).
 
 ```python
 init python:
